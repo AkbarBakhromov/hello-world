@@ -1,2 +1,2 @@
 # hello-world
-This is the main file without any changes
+Learning to program starting today
